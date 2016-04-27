@@ -1,0 +1,9 @@
+.DS_Store
+.envrc
+.direnv
+__pycache__
+*.pyc
+spambase.data
+spambase.DOCUMENTATION
+spambase.names
+.ipynb_checkpoints/
